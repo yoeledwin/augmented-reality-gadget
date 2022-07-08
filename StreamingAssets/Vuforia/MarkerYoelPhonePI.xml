@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Marker_Realme8I" size="100.000000 66.925468" />
+    <ImageTarget name="Marker_HuaweiP50Pro" size="100.000000 65.443214" />
+    <ImageTarget name="Marker_TabA8Series" size="100.000000 65.718559" />
+    <ImageTarget name="Marker_XiaomiPad5" size="100.000000 67.911392" />
+    <ImageTarget name="Marker_OppoA16" size="100.000000 169.454224" />
+    <ImageTarget name="Marker_HuaweiMatepad11" size="100.000000 64.709305" />
+    <ImageTarget name="Marker_VivoV235G" size="100.000000 57.598606" />
+  </Tracking>
+</QCARConfig>
